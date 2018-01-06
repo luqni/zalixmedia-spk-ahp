@@ -5,5 +5,4 @@ Sistem utama Analitycal Hierarchy Process (Metode AHP) adalah memiliki hirarki f
 
 Langkah-langkah didalam menggunakan metode AHP adalah (a) Memecah masalah dalam menjadi kriteria serta sub kriteria, (b) Menentukan bobot dengan perbandingan setiap kriteria, (c) Menentukan skor dengan membandingkan setiap alternatif berdasarkan kriteria, (d) Memilih alternatif terbaik dengan perbandingan skor dengan bobot.
 
-Hubungi +62-851-4401-1857 Untuk mendapatkan database nya.
-Terima Kasih
+tugas SPK STT NF
