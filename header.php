@@ -41,7 +41,7 @@ $db = $config->getConnection();
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		  </button>
-		  <a class="navbar-brand" href="index.php"> Tugas Besar Manajemen Sains</a>
+		  <a class="navbar-brand" href="index.php"> Aplikasi Sistem Pendukung Keputusan AHP</a>
 		</div>
 
 		<!-- Collect the nav links, forms, and other content for toggling -->

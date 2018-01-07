@@ -1,4 +1,4 @@
-<footer class="text-center">&copy; Aldhitya Prasetya 2016</footer>
+<footer class="text-center">&copy; Elniqi Sistem Informasi 2015</footer>
 	</div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

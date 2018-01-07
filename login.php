@@ -52,7 +52,7 @@ if($_POST){
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		  </button>
-		  <a class="navbar-brand">Tugas Besar Manajemen Sains</a>
+		  <a class="navbar-brand">Sistem Pakar Menggunakan AHP</a>
 		</div>
 
 		<!-- Collect the nav links, forms, and other content for toggling -->
