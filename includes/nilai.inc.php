@@ -16,8 +16,8 @@ class Nilai{
 		
 		$query = "insert into ".$this->table_name." values('',?,?)";
 		$stmt = $this->conn->prepare($query);
-		$stmt->bindParam(1, $this->jm);
-		$stmt->bindParam(2, $this->kt);
+		$stmt->bindParam(1, $this->kt);
+		$stmt->bindParam(2, $this->jm);
 		
 		if($stmt->execute()){
 			return true;
